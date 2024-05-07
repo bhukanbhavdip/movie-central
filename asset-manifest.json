@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movie-central/static/css/main.f1c0db77.css",
+    "main.js": "/movie-central/static/js/main.5c7d06e5.js",
+    "static/js/787.f1451633.chunk.js": "/movie-central/static/js/787.f1451633.chunk.js",
+    "index.html": "/movie-central/index.html",
+    "main.f1c0db77.css.map": "/movie-central/static/css/main.f1c0db77.css.map",
+    "main.5c7d06e5.js.map": "/movie-central/static/js/main.5c7d06e5.js.map",
+    "787.f1451633.chunk.js.map": "/movie-central/static/js/787.f1451633.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1c0db77.css",
+    "static/js/main.5c7d06e5.js"
+  ]
+}
